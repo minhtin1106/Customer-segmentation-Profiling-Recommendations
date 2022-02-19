@@ -7,7 +7,16 @@ __Tasks__:<br>
 + In this project, I conducted cohort analysis and RFM segmentation to cluster customers into groups. Then I profiled each group and proposed some recommendations to boost the profits from them. 
 + The dataset having around 1 million of rows is the transactional data collected by an online retail platform. More information about the dataset:<br> https://www.kaggle.com/nathaniel/uci-online-retail-ii-data-set<br>
 
-Without further ado, let's' dive into it
+__Results and Impacts__:<br>
++ Provided the business with insight about the current retention rate of customers (to be specific 80% customers do not come back in the second month) 
+
++ Successfully grouped buyers to 4 groups: The loyal, the valuable but hibernating, the valuable and enthusiastic , and the least profitable. 
+
+=>These insights are useful for the business to think of the next strategies, how to deal with high retention rate and what approach to apply to each group of buyers. 
+
+
+For more details of the work and elaborate recommendations, see my notebook.
+
 
 
 
